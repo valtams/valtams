@@ -1,5 +1,7 @@
-## Hi there o/
-Olen Markus ja opiskelen tällä hetkellä Tieto- ja Viestintäteknologian insinööriksi LAB-Ammattikorkeakoulussa
+## Hei vaan o/
+Olen Markus ja opiskelen tällä hetkellä Tieto- ja Viestintäteknologian insinööriksi LAB-Ammattikorkeakoulussa.
+
+Vapaa-ajalla harrastan pelaamista, palvelinten ylläpitoa ja talvisin laskettelua.
 
 <!--
 **valtams/valtams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
